@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @begemot1k
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning android kotlin
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
